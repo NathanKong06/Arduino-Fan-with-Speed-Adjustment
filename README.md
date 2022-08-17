@@ -13,6 +13,7 @@ A threshold temperature is set in the cold prior to the start of the program. Th
 - 10k Potentiometer
 - Breadboard Jumper Wires
 - LCD1602 Module
+- L293D Motor Driver
 
 # Schematics
 
@@ -30,3 +31,9 @@ A threshold temperature is set in the cold prior to the start of the program. Th
 ## General Overview
 <img src="https://user-images.githubusercontent.com/81611522/185214807-6283db80-511f-4948-9261-c16456ef4906.png" width="500">
 
+# Pins Info
+- 2: Button 1
+- 3 to 5: Fan 
+- 6: Button 2
+- 7: DHT11 Temperature and Humididity Sensor
+- 8 to 13: LCD 1602
